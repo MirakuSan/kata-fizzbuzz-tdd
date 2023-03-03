@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"FizzBuzzTest::testReturnsFizzForMultiplesOfThree":0,"FizzBuzzTest::testReturnsBuzzForMultiplesOfFive":0,"FizzBuzzTest::testReturnsFizzBuzzForMultiplesOfBothThreeAndFive":0,"FizzBuzzTest::testReturnsNumberAsString":0.001}}
